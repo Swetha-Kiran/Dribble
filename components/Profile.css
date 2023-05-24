@@ -1,0 +1,17 @@
+img{
+    width:100%;
+    height:auto;
+}
+h6{
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 110px;
+    margin-bottom:30px;
+}
+a{
+    color:"#ea4c89";
+    float:"right";
+    margin-right:110px;
+    text-decoration:none;
+    margin-bottom:3px;
+}

@@ -1,0 +1,19 @@
+.info-section
+{
+    width: 100%;
+    max-width: 700px;
+    margin-top: 32px;
+    color: #3d3d4e;
+    margin-left:400px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    text-align: left;
+    font-weight: 400;
+    font-size:large;
+
+}
+.anchor{
+    color:#ea4c89;
+    text-decoration: none;
+}

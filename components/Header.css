@@ -1,0 +1,24 @@
+
+Nav
+{
+    font-weight: 400;
+    
+}
+/* .header-left
+{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:200px;
+   
+} */
+.me-auto
+{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+ 
+   
+}
+

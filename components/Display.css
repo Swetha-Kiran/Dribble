@@ -1,0 +1,21 @@
+.main-div
+{
+    width: 100%;
+    max-width: 700px;
+    margin-top: 32px;
+    margin-left:400px;
+    padding: 0;
+    border: 0;
+    text-align: left;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.left-sec
+{
+    display:flex;
+    flex-direction: column;
+}
